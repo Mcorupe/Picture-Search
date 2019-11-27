@@ -5,7 +5,7 @@ Searching through images with the Splash API
 
 ### Technologies used -
 * React
-* Redux
+
 
 ### Running the Code
 ```
